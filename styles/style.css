@@ -76,6 +76,7 @@ ol {
 }
 
 .content__details {
+  position: relative;
   grid-column: 2 / 3;
   grid-row: 1 / 2;
   overflow-y: scroll;
